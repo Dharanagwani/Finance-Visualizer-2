@@ -73,4 +73,3 @@ The app will be available at **`http://localhost:3000`**.
 
 ---
 
-This README now reflects **Stage 2: Categories** updates! 🚀
